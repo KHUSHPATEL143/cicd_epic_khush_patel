@@ -1,3 +1,9 @@
+const dns = require('dns');
+try {
+  dns.setServers(['8.8.8.8', '8.8.4.4']);
+} catch (e) {
+  // Fallback to default DNS
+}
 const fs = require('fs');
 const path = require('path');
 const mongoose = require('mongoose');
