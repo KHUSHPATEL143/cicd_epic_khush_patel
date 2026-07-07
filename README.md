@@ -8,6 +8,11 @@ It features built-in document version auditing, execution run simulations (strea
 The complete interactive API documentation, detailing parameters, payloads, and response structures for all 49 endpoints, is available here:
 👉 **[Postman API Documentation](https://documenter.getpostman.com/view/50839203/2sBY4JwNAP)**
 
+### 🌐 Live Production Deployments
+The application is deployed and accessible globally:
+* **Frontend Web App:** [https://cicd-epic-khush-patel.vercel.app](https://cicd-epic-khush-patel.vercel.app)
+* **Backend API Service (Healthcheck):** [https://cicd-epic-khush-patel.onrender.com/health](https://cicd-epic-khush-patel.onrender.com/health)
+
 ---
 
 ## 🚀 Local Installation & Running
