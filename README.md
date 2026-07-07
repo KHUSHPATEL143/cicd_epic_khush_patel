@@ -4,6 +4,10 @@ CICD_Epic is a production-ready, scalable RESTful API built with Node.js, Expres
 
 It features built-in document version auditing, execution run simulations (streaming logs & diagnostics metrics), secure JWT authentication, role restrictions, and administrative user CRUD dashboards.
 
+### 📖 API Reference & Postman Documentation
+The complete interactive API documentation, detailing parameters, payloads, and response structures for all 49 endpoints, is available here:
+👉 **[Postman API Documentation](https://documenter.getpostman.com/view/50839203/2sBY4JwNAP)**
+
 ---
 
 ## 🚀 Local Installation & Running
